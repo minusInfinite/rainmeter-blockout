@@ -29,4 +29,7 @@ Is you have issue or suggestions please submit an issue. PRs will be reviewed if
 ## Credits
 
 The inspiration for this skin and an example for how to create and delete Meters dynamically comes from [alperenozlu/rainmeter-todo](https://github.com/alperenozlu/rainmeter-todo)
+
 Lua JSON functions are from [rxi/json.lua](https://github.com/rxi/json.lua)
+
+Font for buttons from [AT-UI/feather-font](https://github.com/AT-UI/feather-font)
