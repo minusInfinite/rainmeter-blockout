@@ -25,3 +25,8 @@ Download the Skin Installer from releases.
 ## Contribute
 
 Is you have issue or suggestions please submit an issue. PRs will be reviewed if suitable.
+
+## Credits
+
+The inspiration for this skin and an example for how to create and delete Meters dynamically comes from [alperenozlu/rainmeter-todo](https://github.com/alperenozlu/rainmeter-todo)
+Lua JSON functions are from [rxi/json.lua](https://github.com/rxi/json.lua)
